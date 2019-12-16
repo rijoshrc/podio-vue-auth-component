@@ -1,4 +1,4 @@
-# podio-vue-auth-component
+# Podio-Vue Authentication (Server-side Flow)
 
 Vue component to perform Podio server side authentication flow
 
