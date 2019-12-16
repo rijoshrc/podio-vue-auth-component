@@ -1,2 +1,5 @@
 # podio-vue-auth-component
-Podio-VueJs server side authentication
+
+
+- Podio server side flow
+- Implementation for popup authentication
